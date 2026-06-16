@@ -8,8 +8,15 @@ Problems are organized into folders by pattern/topic. Each folder contains the p
 
 ## Patterns Covered
 
-- Two Pointers / Slow-Fast Pointers
-- (add more as you go)
+- Two Pointers
+- Slow & Fast Pointers
+- Sliding Window
+- Hashmap
+- Prefix Sum
+- Kadane's Algorithm
+- Merge Intervals
+- Linked List Reversal
+- Stack
 
 ## How to Navigate
 
